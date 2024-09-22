@@ -19,7 +19,7 @@
 
 
 <div style="text-align: center; padding: 50px; background-color: #333; color: white;">
-    <h2>Siswa SMK Bakti Nusantara 666</h2>
+    <h2>Ahmad Nabil Muharrom</h2>
     <p style="font-size: 18px;">Menciptakan Solusi Cerdas dengan Teknologi dan Tempe Goreng</p>
     <button style="padding: 10px 20px; font-size: 16px; background-color: #4CAF50; color: white; border: none; cursor: pointer;"
         onclick="location.href='#tentang-saya'">Pelajari Lebih Lanjut</button>
